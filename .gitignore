@@ -1,0 +1,4 @@
+# Informes académicos (no se publican)
+*.pdf
+*.docx
+.ipynb_checkpoints/
